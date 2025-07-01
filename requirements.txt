@@ -7,4 +7,8 @@ matplotlib
 Pillow
 ortools
 ultralytics
-torch==2.1.0+cpu -f https://download.pytorch.org/whl/torch_stable.html
+# For PyTorch CPU version
+torch==2.1.0+cpu
+torchvision==0.16.0+cpu
+torchaudio==2.1.0+cpu
+--extra-index-url https://download.pytorch.org/whl/cpu
