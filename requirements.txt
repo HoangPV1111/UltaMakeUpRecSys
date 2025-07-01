@@ -1,0 +1,10 @@
+streamlit
+scikit-learn
+pandas
+numpy
+opencv-python
+matplotlib
+Pillow
+ortools
+huggingface_hub
+requests
