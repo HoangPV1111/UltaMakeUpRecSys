@@ -8,3 +8,4 @@ Pillow
 ortools
 huggingface_hub
 requests
+torch
