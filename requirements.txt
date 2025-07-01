@@ -1,11 +1,10 @@
 streamlit
-scikit-learn
 pandas
 numpy
 opencv-python-headless
+scikit-learn
 matplotlib
 Pillow
 ortools
-huggingface_hub
-requests
 torch
+ultralytics
