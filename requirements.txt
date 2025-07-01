@@ -1,15 +1,8 @@
 streamlit
 pandas
 numpy
-opencv-python-headless
 scikit-learn
+gdown
+opencv-python-headless
 matplotlib
 Pillow
-ortools
-ultralytics
-# For PyTorch CPU version
-torch==2.1.0+cpu
-torchvision==0.16.0+cpu
-torchaudio==2.1.0+cpu
---extra-index-url https://download.pytorch.org/whl/cpu
-gdown
